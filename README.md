@@ -1,8 +1,8 @@
 # Proyecto Tabla-multimedia de mis hobbies
 ## Contenido.
 ### Basquetball
-** Esto es un texto en negritas **
-_ Esto es un texto en cursiva _
+**Esto es un texto en negritas**
+*Esto es un texto en cursiva*
 ### Programacion
 * Items 1
 * Items 2
