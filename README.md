@@ -1,5 +1,5 @@
 # Proyecto Tabla-multimedia de mis hobbies
-## Contenido
+## Contenido.
 ### VideoJuegos
 ### Programacion
 ### Deportes
